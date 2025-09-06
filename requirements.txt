@@ -1,5 +1,10 @@
 streamlit
 pandas
 plotly
+pillow
+pytesseract
 pycaret
 openai
+scikit-learn
+
+
